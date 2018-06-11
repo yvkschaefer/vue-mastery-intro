@@ -47,12 +47,12 @@
  }
 
  button {
-     margin-top: 30px;
+     margin-top: 15px;
      border: none;
      background-color: #1E95EA;
      color: white;
      height: 40px;
-     width: 100px;
+     width: 132px;
      font-size: 14px;
  }
 
@@ -86,4 +86,8 @@
  .activeTab {
      color: #16C0B0;
      text-decoration: underline;
+ }
+
+ .outOfStock {
+   text-decoration: line-through;
  }
